@@ -1,0 +1,14 @@
+
+body{
+	margin: 0;
+}
+
+.nav{
+	background: rgba(155,155,155,0.7);
+	height: 80px;
+}
+
+#logo{
+	height: 70px;
+	width: 70px;
+}
